@@ -1,15 +1,25 @@
 # rockym23.github.io
 
 
-    Name: The name of the project. This name should be a descriptive, specific name for your project and what it does.  
+    Nombre: Repositorio de Rodrigo, actividades de modulos.
 
-    Description: A description of the project to let people know what the project is for. A list of features could also be added here as a sub-section. 
+    Descripcion: Este repositorio contiene una serie de ligas de las actividades que hemos realizado en los primeros 4 módulos
 
-    Installation: If needed, you could include steps to help people get started with your project.
+    Instalación: No se requiere, simplemente entrar al repositorio via url https://rockym23.github.io/
 
-    Usage: You can include examples of how to use your project in this section and highlight the expected outcomes. 
+    Uso: Una vez dentro del repositorio se abrirá una página, con todas las actividades subidas, seleccione el link de cada una para visitarlas, algunas no mostrarán nada, por lo que se requiere llamar funciones a través de la consola de las Herramientas para Desarrolladores. Es recomendable usar Google Chrome, puesto que este navegador tiene una consola, mas fácil de utilizar, mas abajo se especifican las operaciones en cada sección de las ligas.
 
-    Support: You can tell people where to go for help regarding your project (example: email, Twitter, etc.). 
+    Links/Ligas:
+    
+    Modulo 1
+    
+    Modulo 2
+    
+    Modulo 3
+    
+    Modulo 4
 
-    Roadmap: This section could include any future fixes or improvements you might be planning for your project. 
-    License information: For open source projects, you can describe how they’re licensed.  
+
+    Soporte: Cualquier duda, enviar correo a rockym0303@gmail.com; o a mi twitter @rockym23.
+
+    Camino: Se agregarán demás proyectos y actividades de los módulos siguientes, como también el proyecto final del curso LATAM MERN Full Stack Development.
