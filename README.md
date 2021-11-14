@@ -1,7 +1,7 @@
 # rockym23.github.io
 
 
-    Nombre: Repositorio de Rodrigo, actividades de modulos.
+###    Nombre: Repositorio de Rodrigo, actividades de modulos.
 
     Descripcion: Este repositorio contiene una serie de ligas de las actividades que hemos realizado en los primeros 4 módulos
 
