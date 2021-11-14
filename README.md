@@ -16,10 +16,12 @@ Este repositorio contiene una serie de ligas de las actividades que hemos realiz
 
 No se requiere instalar nada, solo un browser, preferiblemente Google Chrome.
 - Para entrar a la página de index via url presiona [aquí](https://rockym23.github.io/).
-- Para ingresar al repositorio puedes entrar por [aquí]()
+- Para ingresar al repositorio puedes entrar por [aquí](https://github.com/Rockym23/rockym23.github.io).
 
 
-    Uso: Una vez dentro del repositorio se abrirá una página, con todas las actividades subidas, seleccione el link de cada una para visitarlas, algunas no mostrarán nada, por lo que se requiere llamar funciones a través de la consola de las Herramientas para Desarrolladores. Es recomendable usar Google Chrome, puesto que este navegador tiene una consola, mas fácil de utilizar, mas abajo se especifican las operaciones en cada sección de las ligas.
+ ###Uso: 
+ 
+ Una vez dentro del repositorio se abrirá una página, con todas las actividades subidas, seleccione el link de cada una para visitarlas, algunas no mostrarán nada, por lo que se requiere llamar funciones a través de la consola de las Herramientas para Desarrolladores. Es recomendable usar Google Chrome, puesto que este navegador tiene una consola, mas fácil de utilizar, mas abajo se especifican las operaciones en cada sección de las ligas.
 
     Links/Ligas:
     
