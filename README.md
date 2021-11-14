@@ -1,11 +1,20 @@
 # rockym23.github.io
 
 
-###    Nombre: Repositorio de Rodrigo, actividades de modulos.
+###    Nombre:
+Repositorio de Rodrigo, actividades de modulos.
 
-    Descripcion: Este repositorio contiene una serie de ligas de las actividades que hemos realizado en los primeros 4 módulos
+***
 
-    Instalación: No se requiere, simplemente entrar al repositorio via url https://rockym23.github.io/
+###    Descripcion:
+
+Este repositorio contiene una serie de ligas de las actividades que hemos realizado en los primeros 4 módulos
+
+***
+
+###  Instalación: 
+
+No se requiere, Para entrar a la página de index via url es: https://rockym23.github.io/
 
     Uso: Una vez dentro del repositorio se abrirá una página, con todas las actividades subidas, seleccione el link de cada una para visitarlas, algunas no mostrarán nada, por lo que se requiere llamar funciones a través de la consola de las Herramientas para Desarrolladores. Es recomendable usar Google Chrome, puesto que este navegador tiene una consola, mas fácil de utilizar, mas abajo se especifican las operaciones en cada sección de las ligas.
 
