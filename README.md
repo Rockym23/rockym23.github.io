@@ -37,6 +37,10 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
         
       
     Modulo 2
+        - Libraries/Ball.html: Uso de javascript para crear objetos con código, de tipo div, creando circulos en una posición aleatoria.
+        - Motions/moveBall.html: Movimiento horizontal de una pelota, donde cambia de dirección , color y tamaño cuando llega al limite.
+        - Motions/moveBall_bonud.html: Movimiento en 2 dimensiones de una pelota donde cambia de dirección , color y tamaño cuando llega al limite.
+        - Motions/moveBallMulti.html: Movimiento horizontal de varias pelotas
     
     Modulo 3
     
