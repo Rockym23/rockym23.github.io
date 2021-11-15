@@ -18,6 +18,7 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
 - Para entrar a la página de index via url presiona [aquí](https://rockym23.github.io/).
 - Para ingresar al repositorio puedes entrar por [aquí](https://github.com/Rockym23/rockym23.github.io).
 
+***
 
  ### Uso: 
  
@@ -52,7 +53,14 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
         - PACMan/starter01.html: Movimiento del personaje de video juegos PACMan, presiona clic sobre la imagen y veras como hace el movimiento y cambio de imagen,
                                  cuando llega a la orilla cambiará de dirección.
 
+***
 
-    Soporte: Cualquier duda, enviar correo a rockym0303@gmail.com; o a mi twitter @rockym23.
+  ###  Soporte:
+ 
+ Cualquier duda, enviar correo a rockym0303@gmail.com; o a mi twitter @rockym23.
 
-    Camino: Se agregarán demás proyectos y actividades de los módulos siguientes, como también el proyecto final del curso LATAM MERN Full Stack Development.
+***
+ 
+  ###  Camino:
+ 
+ Se agregarán demás proyectos y actividades de los módulos siguientes, como también el proyecto final del curso LATAM MERN Full Stack Development.
