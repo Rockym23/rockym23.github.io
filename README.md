@@ -36,13 +36,15 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
         - StepsGithub/index.html: Portal explicando los pasos para subir archivos al repositorio via GitBash.
         
       
-    Modulo 2
+    - Modulo 2
         - Libraries/Ball.html: Uso de javascript para crear objetos con código, de tipo div, creando circulos en una posición aleatoria.
         - Motions/moveBall.html: Movimiento horizontal de una pelota, donde cambia de dirección , color y tamaño cuando llega al limite.
         - Motions/moveBall_bonud.html: Movimiento en 2 dimensiones de una pelota donde cambia de dirección , color y tamaño cuando llega al limite.
-        - Motions/moveBallMulti.html: Movimiento horizontal de varias pelotas
+        - Motions/moveBallMulti.html: Movimiento horizontal de varias pelotas, cambian de dirección conforme llegan al límite.
     
-    Modulo 3
+    - Modulo 3
+        - bigbang/randomWalk.html: Un grupo de pelotas que simulan movimientos de particulas, originalmente aparece en blanco, debes abrir la consola en Chrome
+                                   para ejecutar, llama la función *factory(n)*, donde **n** es el numero de pelotas que se crearán, y finalmente la función *update()*
     
     Modulo 4
 
