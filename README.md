@@ -35,7 +35,6 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
         - Ganondorf/Shapes.html: Un ejercicio para probar el uso de <div> y usar algunos etilos.
         - StepsGithub/index.html: Portal explicando los pasos para subir archivos al repositorio via GitBash.
         
-      
     - Modulo 2
         - Libraries/Ball.html: Uso de javascript para crear objetos con código, de tipo div, creando circulos en una posición aleatoria.
         - Motions/moveBall.html: Movimiento horizontal de una pelota, donde cambia de dirección , color y tamaño cuando llega al limite.
