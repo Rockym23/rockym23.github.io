@@ -23,7 +23,7 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
  
  Una vez dentro del repositorio se abrirá una página, con todas las actividades subidas, seleccione el link de cada una para visitarlas, algunas no mostrarán nada, por lo que se requiere llamar funciones a través de la consola de las Herramientas para Desarrolladores. Es recomendable usar **Google Chrome**, puesto que este navegador tiene una consola, mas fácil de utilizar. Más abajo se especifican las operaciones en cada sección de las ligas.
 
-    #### Links/Ligas:
+ #### Links/Ligas:
     
    - Index.
         - index.html : contiene las listas a las diferentes páginas desarrolladas al momento. 
