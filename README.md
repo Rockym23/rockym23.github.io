@@ -48,7 +48,7 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
         - bigbang/bigBang.html: Un grupo de pelotas que simula el big bang, originalmente aparece en blanco, debes abrir la consola en **Chrome**
                                    para ejecutar, llamar la función *factory(n)*, donde **n** es el numero de pelotas que se crearán, y finalmente la función                                            *update()*
     
-    - Modulo 4
+   - Modulo 4
         - PACMan/starter01.html: Movimiento del personaje de video juegos PACMan, presiona clic sobre la imagen y veras como hace el movimiento y cambio de imagen,
                                  cuando llega a la orilla cambiará de dirección.
 
