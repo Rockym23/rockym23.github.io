@@ -42,10 +42,15 @@ No se requiere instalar nada, solo un browser, preferiblemente **Google Chrome**
         - Motions/moveBallMulti.html: Movimiento horizontal de varias pelotas, cambian de dirección conforme llegan al límite.
     
    - Modulo 3
-        - bigbang/randomWalk.html: Un grupo de pelotas que simulan movimientos de particulas, originalmente aparece en blanco, debes abrir la consola en Chrome
-                                   para ejecutar, llama la función *factory(n)*, donde **n** es el numero de pelotas que se crearán, y finalmente la función *update()*
+        - bigbang/randomwalk.html: Un grupo de pelotas que simulan movimientos de particulas, originalmente aparece en blanco, debes abrir la consola en **Chrome**
+                                   para ejecutar, llamar la función *factory(n)*, donde **n** es el numero de pelotas que se crearán, y finalmente la función                                            *update()*
+        - bigbang/randomWalk2.html: Pelotas que se mueven, pero dejan trazo como pinturas en un lienzo, originalmente aparece en blanco, debes abrir la consola en                                         **Chrome** para ejecutar, llamar la función *factory(n)*, donde **n** es el numero de pelotas que se crearán inicialmente, y                                           finalmente la función *update()* , si quieres agregar mas arte, haz clic en la pantalla y ve lo que se puede lograr.
+        - bigbang/bigBang.html: Un grupo de pelotas que simula el big bang, originalmente aparece en blanco, debes abrir la consola en **Chrome**
+                                   para ejecutar, llamar la función *factory(n)*, donde **n** es el numero de pelotas que se crearán, y finalmente la función                                            *update()*
     
-    Modulo 4
+    - Modulo 4
+        - PACMan/starter01.html: Movimiento del personaje de video juegos PACMan, presiona clic sobre la imagen y veras como hace el movimiento y cambio de imagen,
+                                 cuando llega a la orilla cambiará de dirección.
 
 
     Soporte: Cualquier duda, enviar correo a rockym0303@gmail.com; o a mi twitter @rockym23.
