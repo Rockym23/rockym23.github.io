@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+:root{
+    --fontColorPrimary : #fff;
+    --fontColorSecondary: #000;
+    --backgroundPrimary: #141414;
+
+    --fontLinkColor: rgb(15, 71, 155);
+
+
+    --navbarBackgroundPrimary: #111;
+    --navbarBorderColor: #90586a;
+
+    /*For Reference use, remember to change it when UAT*/
+    --seasonalColor: #66a59c;
+    --referenceBackgroundColor: #c8d14c;
+
+    --bgImage: url();
+}
+
+/* Start Basic Setup */
+
+.link__external{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+/*End Basic Setup*/
+
+/*Start Main Setup*/
+
+.main__body_light{
+    background-image: url('../assets/img/bgImage1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+.main__body_dark{
+    background-image: url('../assets/img/bgImage2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+/*End Main Setup*/
+
+/*Start NavBar Section*/
+
+.navbar__container{
+    /*background-color: var(--referenceBackgroundColor);*/
+    background-color: var(--navbarBackgroundPrimary);
+    padding: 20px;
+    padding-left: 50px;
+    width: 100%;
+    border: 2px solid var(--navbarBorderColor);
+    color: var(--fontColorPrimary);
+}
+
+
+.divHeaderBody > *:not(:first-child){
+    padding-top: 32px;
+}
+
+.navbar__el{
+  padding-left: 8px;
+}
+
+.navbar__el > a{
+    padding-left: 50px;
+    font-weight: 800;
+    display: inline-block;
+}
+
+
+.OnMouseHover:hover{
+    background-color: rgb(3, 0, 153) !important; 
+}
+
+/*End NavBar section*/
+
+
+.headerBody{
+  margin: auto;
+  width: 50%;
+  margin-left: auto;
+
+}
