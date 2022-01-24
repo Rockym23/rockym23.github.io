@@ -12,6 +12,6 @@ Debes abrir el archivo index.html en tu browser de preferencia; puedes abrir la 
 
 Agregar un modo nocturno.
 
-## Excersice PACMen
+## Screenshot del portal
 
 <img src="./assets/img/portfolio.png" width='500' height='300'>
